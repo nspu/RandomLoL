@@ -1,0 +1,16 @@
+data/images.qrc.i
+data/configuration.ui.i
+data/listes.ui.i
+data/configuration.cpp.i
+data/fond.jpg.i
+data/images/fond.jpg.d
+data/main.cpp.i
+data/fond.jpg.d
+data/images/fond.jpg.i
+data/mainwindow.h.i
+data/mainwindow.cpp.i
+data/listes.cpp.i
+data/configuration.h.i
+data/mainwindow.ui.i
+data/listes.h.i
+data/RandomLoL.pro.i
